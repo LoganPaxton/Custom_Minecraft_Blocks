@@ -1,0 +1,29 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "block Addon",
+		"name": "Addon by dakonblackrose BP",
+		"uuid": "cba5cd38-5a8d-11ea-8e2d-0242ac130003",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "cba5d09e-5a8d-11ea-8e2d-0242ac130003",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

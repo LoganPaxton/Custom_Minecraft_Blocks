@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "block Addon",
+    "description": "Adds new block in Minecraft",
+    "uuid": "cba5c838-5a8d-11ea-8e2d-0242ac130003",
+    "platform_locked": false,
+    "min_engine_version": [1, 8, 0],
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "by dakonblackrose@youtube",
+      "type": "resources",
+      "uuid": "cba5cbe4-5a8d-11ea-8e2d-0242ac130003",
+      "version": [0, 0, 1]
+    }
+  ]
+}
